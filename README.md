@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Erwin Rivaldo Silaban 👋<br><br>### 💻 Backend Developer | Web Developer | Software Engineer<br><br>I'm a software developer with a strong interest in backend development, scalable web applications, and enterprise systems. I enjoy designing efficient APIs, building maintainable software architectures, and learning new technologies to solve real-world problems.<br><br>---<br><br>## 🚀 About Me<br><br>- 🔭 Currently focusing on Backend Development & Enterprise Applications<br>- 🌱 Continuously learning software architecture, system design, and cloud technologies<br>- 💡 Interested in ERP Systems, Business Process Automation, and Web Development<br>- 🎯 Passionate about writing clean, scalable, and maintainable code<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Backend<br>- JavaScript<br>- TypeScript<br>- Next.js<br>- Node.js<br>- Express.js<br><br>### Frontend<br>- HTML<br>- CSS<br><br>### Other Programming Languages<br>- Python<br>- Java<br>- Go<br>- R<br>- C++<br><br>### Database<br>- MySQL<br>- PostgreSQL<br>- MongoDB<br><br>### Tools<br>- Git<br>- GitHub<br>- Postman<br>- VS Code<br>- Docker<br><br>---<br><br>## 📌 Current Focus<br><br>- Backend Development<br>- REST API Development<br>- Database Design<br>- Enterprise Resource Planning (ERP)<br>- Software Architecture<br>- Web Application Development<br><br>---<br><br>## 📫 Connect with Me<br><br>- GitHub: https://github.com/erwinrivaldosilaban<br><br>---<br><br>> *"Keep learning, keep building, and let the code speak for itself."*
 
-<!--
-**erwinrivaldosilaban/erwinrivaldosilaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=erwinrivaldosilaban&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=erwinrivaldosilaban&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=erwinrivaldosilaban&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=erwinrivaldosilaban&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
